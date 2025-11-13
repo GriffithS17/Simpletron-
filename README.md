@@ -4,7 +4,7 @@ Fazendo um computador sem precisar soldar algum componente, ele possui uma lingu
 Como a linguagem SML funciona:
 
 Ela é composta de palavras de 4 dígitos, os dois primeiros dígitos são o código de operação, e os dois últimos são o local da memória onde a operação será feita. 
-Primeiro o programa precisa ser carregado na memória, depois ele é executado. Essas são as operações que podem ser feitas(nada te impede de criar mais): <br><br>
+Primeiro o programa precisa ser carregado na memória, depois ele é executado. Essas são as operações que podem ser feitas (nada te impede de criar mais funções e aumentar a memória): <br><br>
 
 10 - Leitura de um valor em um local da memória
 
